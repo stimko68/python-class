@@ -38,7 +38,11 @@ Introduction to Python class agenda (Part 2)
    - Reading and writing files
    - Creating new files
    - Appending to existing files
- - Database access
+ - Exceptions
+   - Handling exceptions
+   - Custom exceptions
+ - Databases
+   - Using pickle for simple data structures
    - Setup a test database
      - test_database.sql
      - Open mysql console (mysql -u root -p)
