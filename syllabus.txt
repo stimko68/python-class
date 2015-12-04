@@ -1,0 +1,56 @@
+Introduction to Python class agenda (Part 1)
+----------------------------------
+ - Python 2.x vs 3.x
+ - OOP vs FP
+ - Python Syntax
+ 	- Indentation
+ 	- Data types (str, list, tuple, dict, etc)
+ 	- Simple math operations (+, -, *, /, **, %)
+ - Strings
+ 	- String formatting (.format, %)
+ 	- String manipulation
+ 	  - slicing: [<start>:<end>:<step>]
+ 	  - len()
+ 	  - count()
+ 	  - split()
+ 	  - join()
+ 	  - replace()
+ 	  - upper(), lower(), title(), swapcase(), capitalize()
+ 	  - strip()
+ - Conditional statements
+ 	- if, if-else
+ - Functions
+ - Lists, tuples, and dicts
+ - Loops (for, while)
+ - Classes
+ - List and dict comprehensions
+
+Introduction to Python class agenda (Part 2)
+----------------------------------
+ - Writing scripts and programs
+ - String formatting
+ - Using libraries
+   - Installing 3rd party libraries with pip
+     - Setting up pip if you don't already have it installed
+       https://bootstrap.pypa.io/get-pip.py
+     - Making sure pip is in your PATH (Windows)
+ - File I/O
+   - Reading and writing files
+   - Creating new files
+   - Appending to existing files
+ - Database access
+   - Setup a test database
+     - test_database.sql
+     - Open mysql console (mysql -u root -p)
+     - Execute the script
+       - source /path/to/test_database.sql
+   - mysql-connector
+     - Download from here: https://dev.mysql.com/downloads/connector/python/2.1.html
+     - Extract ZIP archive and run setup.py
+       - (Linux) sudo python setup.py install
+       - (Windows) python setup.py install
+ - Quick Git tutorial
+   - Install Git: https://git-scm.com/downloads
+   - Set global committer
+     - git config --global user.name "Nick Simko"
+     - git config --global user.email "simko33f@gmail.com"

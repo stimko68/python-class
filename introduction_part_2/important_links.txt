@@ -1,0 +1,17 @@
+Python Package Manager (pip)
+-------------------------------
+How to install pip: http://pip.readthedocs.org/en/stable/installing/
+Download the pip install script: https://bootstrap.pypa.io/get-pip.py
+
+MySQL
+-------------------------------
+Install MySQL Server
+    Windows: https://dev.mysql.com/downloads/windows/installer/5.7.html
+    Linux: (Debian) apt-get install mysql-server
+    OSX: https://dev.mysql.com/downloads/mysql/ (select Mac OSX from dropdown)
+Download Python MySQL Connector: https://dev.mysql.com/downloads/connector/python/2.1.html
+
+Git
+-------------------------------
+Download Git: https://git-scm.com/downloads
+How to setup Git: https://confluence.atlassian.com/bitbucket/set-up-git-744723531.html
