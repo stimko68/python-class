@@ -58,3 +58,6 @@ Introduction to Python class agenda (Part 2)
    - Set global committer
      - git config --global user.name "Nick Simko"
      - git config --global user.email "simko33f@gmail.com"
+ - Unit testing (if there's time)
+   - Using unittest
+   - Using nose to execute tests
